@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="GIF" src="http://oxbowgolf.ca/wp-content/uploads/2021/06/b9e4960c1476c78043d499d975f86cdb.gif" height="280" />
  <p/>
-<h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi! I'm Tapendra <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm Tapendra Kumar, a passionate Software Engineering student 💻.
 
